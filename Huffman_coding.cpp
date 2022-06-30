@@ -28,7 +28,7 @@ int *freqArray(string s)
 
     return a;
 }
-
+ 
 class binaryTreeNode
 {
 public:
